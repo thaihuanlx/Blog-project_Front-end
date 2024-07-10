@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* background: url("images/background.jpg") no-repeat; */
+  background-color: white;
+  background-size: cover;
+  background-position: center;
+}
